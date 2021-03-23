@@ -23,7 +23,11 @@ module.exports = {
           label: '文档',
           position: 'left',
         },
-        {to: 'blog', label: '博客', position: 'left'},
+        {
+          label: '个人博客', 
+          position: 'left',
+          href: 'https://blog.xueyao.me'
+        },
         {
           href: 'https://github.com/flowstone',
           label: 'GitHub',
