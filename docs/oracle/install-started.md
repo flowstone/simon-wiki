@@ -1,6 +1,6 @@
 ---
 title: 快速安装Oracle
-slug: /oracle/
+slug: /oracle
 ---
 
 ## 安装Oracle

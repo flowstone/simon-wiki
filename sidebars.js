@@ -6,10 +6,7 @@ module.exports = {
       items: [
         'oracle/install-started',
         'oracle/grammar-use',
-        'create-a-document',
-        'create-a-blog-post',
-        'markdown-features',
-        'thank-you',
+        'oracle/command'
       ],
     },
   ],
